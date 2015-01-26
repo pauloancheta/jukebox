@@ -15,6 +15,8 @@ Our jukebox to repeatedly prompt users to enter a song, and play the song they e
 ```
 A*1 C#*2 D*4
 ```
+C*2 D#*2 F*4 C*2 D#*1 F#*2 F*3
+
 
 ## Tasks
 

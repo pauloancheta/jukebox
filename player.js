@@ -121,7 +121,6 @@ var jukeboxAudioContext = new webkitAudioContext();
 // number of beats, e.g:
 // [{pitch: 'A', beats: 1}, {pitch: 'B#', beats: 2}, ...]
 var playSong = function(song, bpm, onComplete) {
-
   if (typeof onComplete == "undefined") {
     onComplete = function(){};
   }
@@ -148,4 +147,21 @@ var playSong = function(song, bpm, onComplete) {
 
   playNextNote();
 
+
+  
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
